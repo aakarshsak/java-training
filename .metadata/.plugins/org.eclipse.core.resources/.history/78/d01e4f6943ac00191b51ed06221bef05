@@ -1,0 +1,13 @@
+package com.swing;
+
+import java.awt.Frame;
+
+public class TestFrame extends Frame{
+	
+	
+	TestFrame() {
+		setTitle("Demo");
+		setSize(100, 100);
+		
+	}
+}

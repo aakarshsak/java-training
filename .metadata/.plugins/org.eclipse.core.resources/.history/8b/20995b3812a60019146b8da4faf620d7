@@ -1,0 +1,7 @@
+package com.example;
+
+public class StaticVarFunc {
+	
+	private int static f;
+	
+}

@@ -1,0 +1,19 @@
+package com.service;
+
+import javax.swing.table.DefaultTableModel;
+
+import com.db.StudentDao;
+
+public class StudentService {
+	
+	
+	public static DefaultTableModel getModel() {
+		DefaultTableModel model = StudentDao.getModel();
+	}
+	
+	public staic boolean delete(String usn) {
+		
+		
+	}
+	
+}

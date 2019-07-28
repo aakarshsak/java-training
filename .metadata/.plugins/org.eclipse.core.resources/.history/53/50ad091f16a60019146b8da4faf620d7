@@ -1,0 +1,17 @@
+package com.example;
+
+public class StringDemo {
+
+	public static void main(String[] args) {
+		
+		
+		String s = "This is a new String.";
+		System.out.println(s);
+		
+		Boolean ss = s.startsWith("Hey There.");
+		
+		System.out.println(s);
+
+	}
+
+}

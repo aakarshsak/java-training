@@ -1,0 +1,53 @@
+package com.swing;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+
+public class TestJFrame extends JFrame{
+	
+	private JButton btn;
+	private JButton ping;
+	
+	
+	public TestJFrame() {
+		
+		setTitle("DEMO J FRAME");
+		setSize(400, 400);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		setLocationRelativeTo(null);
+		btn = new JButton("Clsoe");
+		btn.setSize(40, 80);
+		btn.setLocation(200, 200);
+		
+		ping = new JButton("Ping");
+		ping.addActionListener(new ActionListener() {
+			
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				
+			}
+		});
+		add(ping);
+		
+		
+		btn.addActionListener(new ActionListener() {
+			
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				System.exit(0);
+				
+			}
+		});
+		add(btn);
+		
+		setVisible(true);
+	}
+
+	public static void main(String[] args) {
+		new TestJFrame();
+	}
+
+}

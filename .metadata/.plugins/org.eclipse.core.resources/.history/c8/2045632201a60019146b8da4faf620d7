@@ -1,0 +1,21 @@
+package com.example;
+
+public class ArrayDemo {
+
+	public static void main(String[] args) {
+		
+		
+		
+		int s[] = {10, 20, 30, 40, 50};
+		for(int x: i) {
+			System.out.println(x);
+		}
+
+		int d[] = new int[10];
+		for(int x: i) {
+			System.out.println(x);
+		}
+
+	}
+
+}

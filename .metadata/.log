@@ -1,0 +1,1727 @@
+!SESSION 2019-07-10 00:43:05.623 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-10 00:43:45.051
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-07-10 01:24:48.397 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-10 01:24:53.612
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-07-10 01:26:29.760 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-10 01:26:33.761
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-07-10 01:32:58.200 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-10 01:33:01.960
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-07-10 01:44:36.253 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-10 01:44:49.625
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-07-10 01:47:21.322 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-10 01:47:24.797
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-07-10 09:23:59.126 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-10 09:24:11.192
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-07-10 22:50:31.534 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-10 22:50:43.437
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.ui 4 0 2019-07-10 22:53:20.974
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController.computeInformation(AdditionalInfoController.java:541)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractInformationControlManager.showInformation(AbstractInformationControlManager.java:1091)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController.showInformation(AdditionalInfoController.java:530)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$1.showInformation(AdditionalInfoController.java:477)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer.lambda$1(AdditionalInfoController.java:362)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:5113)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4666)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:635)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1441)
+!SESSION 2019-07-11 14:56:03.713 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-07-11 14:56:14.262
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-11 14:56:18.544
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-07-11 12:26:40.072
+!MESSAGE Connection to http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800 failed on marketplace.eclipse.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.epp.mpc.ui 4 0 2019-07-11 12:26:40.284
+!MESSAGE File support discovery for *.dat failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: Cannot complete request to http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:200)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:555)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:86)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:70)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:184)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:261)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:397)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:128)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:88)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:165)
+	... 12 more
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	... 1 more
+!SUBENTRY 1 org.eclipse.epp.mpc.core 4 0 2019-07-11 12:26:40.286
+!MESSAGE Cannot complete request to http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+!STACK 1
+org.eclipse.core.runtime.CoreException: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:184)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:261)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:397)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:128)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:88)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:165)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:555)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:86)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:70)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	... 1 more
+!SUBENTRY 2 org.eclipse.equinox.p2.transport.ecf 4 1006 2019-07-11 12:26:40.287
+!MESSAGE Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-07-11 12:27:01.689
+!MESSAGE Connection to http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800 failed on marketplace.eclipse.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.epp.mpc.ui 4 0 2019-07-11 12:27:01.895
+!MESSAGE File support discovery for *.dat failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: Cannot complete request to http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:200)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:555)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:86)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:70)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:184)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:261)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:397)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:128)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:88)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:165)
+	... 12 more
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	... 1 more
+!SUBENTRY 1 org.eclipse.epp.mpc.core 4 0 2019-07-11 12:27:01.897
+!MESSAGE Cannot complete request to http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+!STACK 1
+org.eclipse.core.runtime.CoreException: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:184)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:261)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:397)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:128)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:88)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:165)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:555)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:86)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:70)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	... 1 more
+!SUBENTRY 2 org.eclipse.equinox.p2.transport.ecf 4 1006 2019-07-11 12:27:01.897
+!MESSAGE Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_emp.dat%2CfileExtension_dat/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-07-11 12:39:19.686
+!MESSAGE Connection to http://marketplace.eclipse.org/category/free-tagging/fileExtension_student.ser%2CfileExtension_ser/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800 failed on marketplace.eclipse.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.epp.mpc.ui 4 0 2019-07-11 12:39:19.891
+!MESSAGE File support discovery for *.ser failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: Cannot complete request to http://marketplace.eclipse.org/category/free-tagging/fileExtension_student.ser%2CfileExtension_ser/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_student.ser%2CfileExtension_ser/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:200)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:555)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:86)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:70)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_student.ser%2CfileExtension_ser/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:184)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:261)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:397)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:128)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:88)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:165)
+	... 12 more
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	... 1 more
+!SUBENTRY 1 org.eclipse.epp.mpc.core 4 0 2019-07-11 12:39:19.891
+!MESSAGE Cannot complete request to http://marketplace.eclipse.org/category/free-tagging/fileExtension_student.ser%2CfileExtension_ser/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_student.ser%2CfileExtension_ser/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+!STACK 1
+org.eclipse.core.runtime.CoreException: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_student.ser%2CfileExtension_ser/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:184)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:261)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:397)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:128)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:88)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:165)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:555)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:86)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:70)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	... 1 more
+!SUBENTRY 2 org.eclipse.equinox.p2.transport.ecf 4 1006 2019-07-11 12:39:19.892
+!MESSAGE Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_student.ser%2CfileExtension_ser/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2019-07-11 23:02:05.297 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-11 23:02:21.559
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 4 2 2019-07-12 00:51:44.093
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jface".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.ui.actions.AddGetterSetterAction$AddGetterSetterSelectionStatusValidator.validate(AddGetterSetterAction.java:370)
+	at org.eclipse.ui.dialogs.CheckedTreeSelectionDialog.updateOKStatus(CheckedTreeSelectionDialog.java:238)
+	at org.eclipse.ui.dialogs.CheckedTreeSelectionDialog.lambda$1(CheckedTreeSelectionDialog.java:324)
+	at org.eclipse.jface.viewers.CheckboxTreeViewer$1.run(CheckboxTreeViewer.java:167)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:176)
+	at org.eclipse.jface.viewers.CheckboxTreeViewer.fireCheckStateChanged(CheckboxTreeViewer.java:164)
+	at org.eclipse.jface.viewers.CheckboxTreeViewer.handleSelect(CheckboxTreeViewer.java:294)
+	at org.eclipse.jface.viewers.StructuredViewer$4.widgetSelected(StructuredViewer.java:1197)
+	at org.eclipse.jface.util.OpenStrategy.fireSelectionEvent(OpenStrategy.java:242)
+	at org.eclipse.jface.util.OpenStrategy.access$4(OpenStrategy.java:237)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:402)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5874)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1400)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:5138)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4663)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ui.dialogs.CheckedTreeSelectionDialog.open(CheckedTreeSelectionDialog.java:253)
+	at org.eclipse.jdt.ui.actions.AddGetterSetterAction.run(AddGetterSetterAction.java:315)
+	at org.eclipse.jdt.ui.actions.AddGetterSetterAction.run(AddGetterSetterAction.java:576)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:278)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.ui.actions.RetargetAction.runWithEvent(RetargetAction.java:225)
+	at org.eclipse.ui.internal.WWinPluginAction.runWithEvent(WWinPluginAction.java:223)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:412)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5874)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1400)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:5138)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:635)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1441)
+!SESSION 2019-07-12 09:25:04.858 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-12 09:25:13.132
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-07-12 09:57:24.251
+!MESSAGE Connection to http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800 failed on marketplace.eclipse.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.epp.mpc.ui 4 0 2019-07-12 09:57:24.467
+!MESSAGE File support discovery for *.csv failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: Cannot complete request to http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:200)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:555)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:86)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:70)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:184)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:261)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:397)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:128)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:88)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:165)
+	... 12 more
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	... 1 more
+!SUBENTRY 1 org.eclipse.epp.mpc.core 4 0 2019-07-12 09:57:24.471
+!MESSAGE Cannot complete request to http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+!STACK 1
+org.eclipse.core.runtime.CoreException: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:184)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:261)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:397)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:128)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:88)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:165)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:555)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:86)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:70)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	... 1 more
+!SUBENTRY 2 org.eclipse.equinox.p2.transport.ecf 4 1006 2019-07-12 09:57:24.475
+!MESSAGE Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-07-12 09:57:45.940
+!MESSAGE Connection to http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800 failed on marketplace.eclipse.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.epp.mpc.ui 4 0 2019-07-12 09:57:46.144
+!MESSAGE File support discovery for *.csv failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: Cannot complete request to http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:200)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:555)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:86)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:70)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:184)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:261)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:397)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:128)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:88)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:165)
+	... 12 more
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	... 1 more
+!SUBENTRY 1 org.eclipse.epp.mpc.core 4 0 2019-07-12 09:57:46.145
+!MESSAGE Cannot complete request to http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+!STACK 1
+org.eclipse.core.runtime.CoreException: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:184)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:261)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:397)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:128)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:88)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:165)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:555)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:86)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:70)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	... 1 more
+!SUBENTRY 2 org.eclipse.equinox.p2.transport.ecf 4 1006 2019-07-12 09:57:46.145
+!MESSAGE Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-07-12 09:58:07.519
+!MESSAGE Connection to http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800 failed on marketplace.eclipse.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.epp.mpc.ui 4 0 2019-07-12 09:58:07.726
+!MESSAGE File support discovery for *.csv failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: Cannot complete request to http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:200)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:555)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:86)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:70)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:184)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:261)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:397)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:128)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:88)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:165)
+	... 12 more
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	... 1 more
+!SUBENTRY 1 org.eclipse.epp.mpc.core 4 0 2019-07-12 09:58:07.726
+!MESSAGE Cannot complete request to http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+!STACK 1
+org.eclipse.core.runtime.CoreException: Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:184)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:261)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:397)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:128)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:88)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:165)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:555)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:86)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:70)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	... 1 more
+!SUBENTRY 2 org.eclipse.equinox.p2.transport.ecf 4 1006 2019-07-12 09:58:07.727
+!MESSAGE Unknown Host: http://marketplace.eclipse.org/category/free-tagging/fileExtension_students.csv%2CfileExtension_csv/api/p?client=org.eclipse.epp.mpc.core&client.version=1.7.7.v20190521-1752&os=linux&ws=gtk&nl=en_IN&java.version=1.8.0_211&product=org.eclipse.epp.package.java.product&product.version=4.12.0.I20190605-1800&runtime.version=3.15.300.v20190508-0543&platform.version=4.12.0.v20190605-1800
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.ui 4 0 2019-07-12 12:23:33.400
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IllegalArgumentException: Argument cannot be null
+	at org.eclipse.swt.SWT.error(SWT.java:4680)
+	at org.eclipse.swt.SWT.error(SWT.java:4614)
+	at org.eclipse.swt.SWT.error(SWT.java:4585)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:532)
+	at org.eclipse.swt.widgets.Control.removeMouseMoveListener(Control.java:2471)
+	at org.eclipse.jface.text.AbstractInformationControl$2.mouseUp(AbstractInformationControl.java:398)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:224)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5874)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1400)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:5138)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:635)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1441)
+!SESSION 2019-07-13 09:20:11.707 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-13 09:20:24.258
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.ui 4 0 2019-07-13 09:56:21.027
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController.computeInformation(AdditionalInfoController.java:541)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractInformationControlManager.showInformation(AbstractInformationControlManager.java:1091)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController.showInformation(AdditionalInfoController.java:530)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$1.showInformation(AdditionalInfoController.java:477)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer.lambda$1(AdditionalInfoController.java:362)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:5113)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4666)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:635)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1441)
+!SESSION 2019-07-14 11:52:01.808 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-07-14 11:52:04.221
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-14 11:52:06.658
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-07-15 22:40:51.181 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-07-15 22:40:58.758
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-15 22:41:03.316
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.oomph.setup.core 2 0 2019-07-15 22:41:28.694
+!MESSAGE The Eclipse Git-hosted URI 'http://git.eclipse.org/c/oomph/org.eclipse.oomph.git/plain/setups/org.eclipse.setup' is blocked for direct access.
+Please open a Bugzilla to add it to an official Oomph catalog.
+For initial testing, use the file system local version of the resource.
+Alternatively, run the setup archiver application as follows:
+  /home/zoro/Eclipse/eclipse/eclipse/eclipse -application org.eclipse.oomph.setup.core.SetupArchiver -consoleLog -noSplash -uris http://git.eclipse.org/c/oomph/org.eclipse.oomph.git/plain/setups/org.eclipse.setup
+!SESSION 2019-07-19 22:17:02.989 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-07-19 22:17:11.494
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-19 22:17:16.258
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-07-20 18:51:55.905 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-20 18:52:09.174
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-07-21 02:02:43.854 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-07-21 02:02:51.423
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-21 02:02:55.615
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-07-22 09:41:04.354 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-22 09:41:36.432
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-07-23 09:40:23.104 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-07-23 09:40:38.113
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-23 09:40:42.232
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.ui 4 0 2019-07-23 09:55:02.672
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController.computeInformation(AdditionalInfoController.java:541)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractInformationControlManager.showInformation(AbstractInformationControlManager.java:1091)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController.showInformation(AdditionalInfoController.java:530)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$1.showInformation(AdditionalInfoController.java:477)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer.lambda$1(AdditionalInfoController.java:362)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:5113)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4666)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:635)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1441)
+
+!ENTRY org.eclipse.epp.mpc.ui 4 0 2019-07-23 12:19:15.210
+!MESSAGE The following solutions are not available: WindowBuilder 1.9.1 (id=org.eclipse.wb.css.feature.feature.group, site=http://download.eclipse.org/windowbuilder/latest/)
+!SESSION 2019-07-23 17:46:27.284 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-23 17:46:40.110
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.ui 4 0 2019-07-23 17:53:55.770
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IllegalArgumentException: Argument not valid
+	at org.eclipse.swt.SWT.error(SWT.java:4680)
+	at org.eclipse.swt.SWT.error(SWT.java:4614)
+	at org.eclipse.swt.SWT.error(SWT.java:4585)
+	at org.eclipse.swt.graphics.Image.init(Image.java:1247)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:219)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.GradientCanvas.onPaint(GradientCanvas.java:168)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.GradientCanvas.lambda$0(GradientCanvas.java:81)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5874)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1400)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1426)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1409)
+	at org.eclipse.swt.widgets.Control.gtk_draw(Control.java:3906)
+	at org.eclipse.swt.widgets.Composite.gtk_draw(Composite.java:455)
+	at org.eclipse.swt.widgets.Canvas.gtk_draw(Canvas.java:181)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2212)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:6814)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6132)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_main_do_event(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_main_do_event(GTK.java:4166)
+	at org.eclipse.swt.widgets.Display.eventProc(Display.java:1429)
+	at org.eclipse.swt.internal.gtk.OS._g_main_context_iteration(Native Method)
+	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(OS.java:1585)
+	at org.eclipse.swt.browser.WebKit$Webkit2AsyncToSync.execAsyncAndWaitForReturn(WebKit.java:1895)
+	at org.eclipse.swt.browser.WebKit$Webkit2AsyncToSync.runjavascript(WebKit.java:1797)
+	at org.eclipse.swt.browser.WebKit$Webkit2AsyncToSync.evaluate(WebKit.java:1745)
+	at org.eclipse.swt.browser.WebKit.evaluate(WebKit.java:1931)
+	at org.eclipse.swt.browser.WebKit.close(WebKit.java:1552)
+	at org.eclipse.swt.browser.WebKit.onDispose(WebKit.java:2564)
+	at org.eclipse.swt.browser.WebKit.lambda$4(WebKit.java:1313)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5874)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1400)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1426)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1405)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:1217)
+	at org.eclipse.swt.widgets.Control.release(Control.java:4614)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:528)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.computeBrowserAvailable(AbstractMarketplaceDiscoveryItem.java:523)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createInfoLink(AbstractMarketplaceDiscoveryItem.java:394)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createDescription(AbstractMarketplaceDiscoveryItem.java:341)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createContent(AbstractMarketplaceDiscoveryItem.java:241)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createContent(AbstractMarketplaceDiscoveryItem.java:203)
+	at org.eclipse.epp.internal.mpc.ui.wizards.DiscoveryItem.createContent(DiscoveryItem.java:123)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.<init>(AbstractMarketplaceDiscoveryItem.java:168)
+	at org.eclipse.epp.internal.mpc.ui.wizards.DiscoveryItem.<init>(DiscoveryItem.java:102)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.createDiscoveryItem(MarketplaceViewer.java:501)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.doCreateViewerItem(MarketplaceViewer.java:435)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer$3.doCreateItem(CatalogViewer.java:345)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.ControlListViewer.createNewItem(ControlListViewer.java:244)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.ControlListViewer.refreshAll(ControlListViewer.java:485)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.ControlListViewer.inputChanged(ControlListViewer.java:358)
+	at org.eclipse.jface.viewers.ContentViewer.setInput(ContentViewer.java:282)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1629)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer.catalogUpdated(CatalogViewer.java:251)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.access$4(MarketplaceViewer.java:1)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.lambda$1(MarketplaceViewer.java:377)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.runUpdate(MarketplaceViewer.java:771)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.catalogUpdated(MarketplaceViewer.java:376)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer.updateCatalog(CatalogViewer.java:592)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.updateCatalog(MarketplaceViewer.java:1048)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplacePage.safeUpdateCatalog(MarketplacePage.java:806)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplacePage.lambda$4(MarketplacePage.java:794)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:5113)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4666)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.epp.internal.mpc.ui.commands.AbstractMarketplaceWizardCommand.openWizardDialog(AbstractMarketplaceWizardCommand.java:145)
+	at org.eclipse.epp.internal.mpc.ui.commands.AbstractMarketplaceWizardCommand.execute(AbstractMarketplaceWizardCommand.java:72)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:95)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:320)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:254)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:498)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:438)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:449)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:475)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5874)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1400)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:5138)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:635)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1441)
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2019-07-23 17:56:28.301
+!MESSAGE Failure reporting download statistics to URL: http://download.eclipse.org/stats/releases/2019-06/org.eclipse.pde.feature.jar/3.14.0.v20190605-1800
+!STACK 1
+org.eclipse.core.runtime.CoreException: HTTP Server 'Bad Gateway' : http://download.eclipse.org/stats/releases/2019-06/org.eclipse.pde.feature.jar/3.14.0.v20190605-1800
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:239)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.delegateGetLastModified(CachingTransport.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.getLastModified(CachingTransport.java:345)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.collectStats(MirrorRequest.java:269)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:236)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:155)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:759)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:64)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.ecf.filetransfer.BrowseFileTransferException: HttpComponents connection error response code 502.
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:276)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	... 1 more
+!SUBENTRY 1 org.eclipse.equinox.p2.transport.ecf 4 1002 2019-07-23 17:56:28.304
+!MESSAGE HTTP Server 'Bad Gateway' : http://download.eclipse.org/stats/releases/2019-06/org.eclipse.pde.feature.jar/3.14.0.v20190605-1800
+!STACK 1
+org.eclipse.ecf.filetransfer.BrowseFileTransferException: HttpComponents connection error response code 502.
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:276)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.ecf.identity 4 0 2019-07-23 17:56:28.304
+!MESSAGE HttpComponents connection error response code 502.
+!SESSION 2019-07-23 17:57:36.997 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data file:/home/zoro/Documents/Programming/JavaProject/Workspace/ -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-23 17:57:44.351
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-07-28 09:36:09.032 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-28 09:37:16.341
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.ui 4 0 2019-07-28 10:04:22.182
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IllegalArgumentException: Argument not valid
+	at org.eclipse.swt.SWT.error(SWT.java:4680)
+	at org.eclipse.swt.SWT.error(SWT.java:4614)
+	at org.eclipse.swt.SWT.error(SWT.java:4585)
+	at org.eclipse.swt.graphics.Image.init(Image.java:1247)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:219)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.GradientCanvas.onPaint(GradientCanvas.java:168)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.GradientCanvas.lambda$0(GradientCanvas.java:81)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5874)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1400)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1426)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1409)
+	at org.eclipse.swt.widgets.Control.gtk_draw(Control.java:3906)
+	at org.eclipse.swt.widgets.Composite.gtk_draw(Composite.java:455)
+	at org.eclipse.swt.widgets.Canvas.gtk_draw(Canvas.java:181)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2212)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:6814)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6132)
+	at org.eclipse.swt.internal.gtk.GTK._gtk_main_do_event(Native Method)
+	at org.eclipse.swt.internal.gtk.GTK.gtk_main_do_event(GTK.java:4166)
+	at org.eclipse.swt.widgets.Display.eventProc(Display.java:1429)
+	at org.eclipse.swt.internal.gtk.OS._g_main_context_iteration(Native Method)
+	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(OS.java:1585)
+	at org.eclipse.swt.browser.WebKit$Webkit2AsyncToSync.execAsyncAndWaitForReturn(WebKit.java:1895)
+	at org.eclipse.swt.browser.WebKit$Webkit2AsyncToSync.runjavascript(WebKit.java:1797)
+	at org.eclipse.swt.browser.WebKit$Webkit2AsyncToSync.evaluate(WebKit.java:1745)
+	at org.eclipse.swt.browser.WebKit.evaluate(WebKit.java:1931)
+	at org.eclipse.swt.browser.WebKit.close(WebKit.java:1552)
+	at org.eclipse.swt.browser.WebKit.onDispose(WebKit.java:2564)
+	at org.eclipse.swt.browser.WebKit.lambda$4(WebKit.java:1313)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5874)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1400)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1426)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1405)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:1217)
+	at org.eclipse.swt.widgets.Control.release(Control.java:4614)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:528)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.computeBrowserAvailable(AbstractMarketplaceDiscoveryItem.java:523)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createInfoLink(AbstractMarketplaceDiscoveryItem.java:394)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createDescription(AbstractMarketplaceDiscoveryItem.java:341)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createContent(AbstractMarketplaceDiscoveryItem.java:241)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.createContent(AbstractMarketplaceDiscoveryItem.java:203)
+	at org.eclipse.epp.internal.mpc.ui.wizards.DiscoveryItem.createContent(DiscoveryItem.java:123)
+	at org.eclipse.epp.internal.mpc.ui.wizards.AbstractMarketplaceDiscoveryItem.<init>(AbstractMarketplaceDiscoveryItem.java:168)
+	at org.eclipse.epp.internal.mpc.ui.wizards.DiscoveryItem.<init>(DiscoveryItem.java:102)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.createDiscoveryItem(MarketplaceViewer.java:501)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.doCreateViewerItem(MarketplaceViewer.java:435)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer$3.doCreateItem(CatalogViewer.java:345)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.ControlListViewer.createNewItem(ControlListViewer.java:244)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.ControlListViewer.refreshAll(ControlListViewer.java:485)
+	at org.eclipse.equinox.internal.p2.ui.discovery.util.ControlListViewer.inputChanged(ControlListViewer.java:358)
+	at org.eclipse.jface.viewers.ContentViewer.setInput(ContentViewer.java:282)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1629)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer.catalogUpdated(CatalogViewer.java:251)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.access$4(MarketplaceViewer.java:1)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.lambda$1(MarketplaceViewer.java:377)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.runUpdate(MarketplaceViewer.java:771)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.catalogUpdated(MarketplaceViewer.java:376)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer.updateCatalog(CatalogViewer.java:592)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplaceViewer.updateCatalog(MarketplaceViewer.java:1048)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplacePage.safeUpdateCatalog(MarketplacePage.java:806)
+	at org.eclipse.epp.internal.mpc.ui.wizards.MarketplacePage.lambda$4(MarketplacePage.java:794)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:5113)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4666)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.epp.internal.mpc.ui.commands.AbstractMarketplaceWizardCommand.openWizardDialog(AbstractMarketplaceWizardCommand.java:145)
+	at org.eclipse.epp.internal.mpc.ui.commands.AbstractMarketplaceWizardCommand.execute(AbstractMarketplaceWizardCommand.java:72)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:95)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:320)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:254)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:498)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:438)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:449)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:475)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5874)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1400)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:5138)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:635)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1441)
+!SESSION 2019-07-28 10:07:45.472 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data file:/home/zoro/Documents/Programming/JavaProject/Workspace/ -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-28 10:08:25.417
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-07-28 11:08:31.052 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-28 11:09:20.898
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2019-07-28 11:18:48.517
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at https://download.eclipse.org.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:394)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.fail(CachingRepositoryManager.java:353)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:244)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:121)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:106)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$1.runModal(PreloadingRepositoryHandler.java:84)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:190)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2019-07-28 11:18:48.520
+!MESSAGE No repository found at https://download.eclipse.org.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-07-28 11:22:23.727
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-07-28 11:22:23.727
+!MESSAGE Cannot complete the install because some dependencies are not satisfiable
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:23.727
+!MESSAGE Software being installed: EMF RAP Target Components 2.18.0.v20190528-0845 (org.eclipse.emf.rap.sdk.feature.group 2.18.0.v20190528-0845)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:23.727
+!MESSAGE Software currently installed: Eclipse Platform 4.12.0.v20190605-1801 (org.eclipse.platform.feature.group 4.12.0.v20190605-1801)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-07-28 11:22:23.727
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:23.727
+!MESSAGE From: EMF RAP Target Components 2.18.0.v20190528-0845 (org.eclipse.emf.rap.sdk.feature.group 2.18.0.v20190528-0845)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:23.727
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.platform.feature.group 0.0.0
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-07-28 11:22:23.821
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-07-28 11:22:23.821
+!MESSAGE Cannot complete the install because some dependencies are not satisfiable
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:23.821
+!MESSAGE Software being installed: EMF RAP Target Components 2.18.0.v20190528-0845 (org.eclipse.emf.rap.sdk.feature.group 2.18.0.v20190528-0845)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:23.821
+!MESSAGE Software currently installed: Eclipse Platform 4.12.0.v20190605-1801 (org.eclipse.platform.feature.group 4.12.0.v20190605-1801)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-07-28 11:22:23.821
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:23.821
+!MESSAGE From: EMF RAP Target Components 2.18.0.v20190528-0845 (org.eclipse.emf.rap.sdk.feature.group 2.18.0.v20190528-0845)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:23.821
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.platform.feature.group 0.0.0
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-07-28 11:22:24.141
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-07-28 11:22:24.141
+!MESSAGE Cannot complete the install because some dependencies are not satisfiable
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:24.141
+!MESSAGE Software being installed: EMF RAP Target Components 2.18.0.v20190528-0845 (org.eclipse.emf.rap.sdk.feature.group 2.18.0.v20190528-0845)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:24.141
+!MESSAGE Software currently installed: Eclipse Platform 4.12.0.v20190605-1801 (org.eclipse.platform.feature.group 4.12.0.v20190605-1801)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-07-28 11:22:24.142
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:24.142
+!MESSAGE From: EMF RAP Target Components 2.18.0.v20190528-0845 (org.eclipse.emf.rap.sdk.feature.group 2.18.0.v20190528-0845)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:24.142
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.platform.feature.group 0.0.0
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-07-28 11:22:24.142
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-07-28 11:22:24.142
+!MESSAGE Cannot complete the install because some dependencies are not satisfiable
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:24.142
+!MESSAGE Software being installed: EMF RAP Target Components 2.18.0.v20190528-0845 (org.eclipse.emf.rap.sdk.feature.group 2.18.0.v20190528-0845)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:24.142
+!MESSAGE Software currently installed: Eclipse Platform 4.12.0.v20190605-1801 (org.eclipse.platform.feature.group 4.12.0.v20190605-1801)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-07-28 11:22:24.142
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:24.142
+!MESSAGE From: EMF RAP Target Components 2.18.0.v20190528-0845 (org.eclipse.emf.rap.sdk.feature.group 2.18.0.v20190528-0845)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-07-28 11:22:24.142
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.platform.feature.group 0.0.0
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2019-07-28 11:55:49.931
+!MESSAGE Failure reporting download statistics to URL: http://download.eclipse.org/stats/releases/2019-06/org.eclipse.equinox.compendium.sdk.feature.jar/3.18.0.v20190528-1257
+!STACK 1
+org.eclipse.core.runtime.CoreException: Unable to read repository at http://download.eclipse.org/stats/releases/2019-06/org.eclipse.equinox.compendium.sdk.feature.jar/3.18.0.v20190528-1257.
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:240)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.delegateGetLastModified(CachingTransport.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.getLastModified(CachingTransport.java:345)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.collectStats(MirrorRequest.java:269)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:236)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:155)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:759)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:64)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.http.NoHttpResponseException: download.eclipse.org:80 failed to respond
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:165)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:246)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	... 1 more
+!SUBENTRY 1 org.eclipse.equinox.p2.transport.ecf 4 1002 2019-07-28 11:55:49.932
+!MESSAGE Unable to read repository at http://download.eclipse.org/stats/releases/2019-06/org.eclipse.equinox.compendium.sdk.feature.jar/3.18.0.v20190528-1257.
+!STACK 0
+org.apache.http.NoHttpResponseException: download.eclipse.org:80 failed to respond
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:165)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:246)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)

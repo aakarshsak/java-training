@@ -1,0 +1,41 @@
+package com.swing;
+
+import java.sql.Date;
+import java.util.Calendar;
+
+import javax.swing.JFrame;
+import javax.swing.JScrollPane;
+import javax.swing.JTable;
+
+public class JTableDemo extends JFrame{
+
+	
+	private JTable table;
+	private JScrollPane scrollPane;
+	
+	
+	public JTableDemo() {
+		setTitle("Table Demo");
+		setSize(400, 400);
+		setLocationRelativeTo(null);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		
+		Calendar cal = Calendar.getInstance();
+		Date d = new Date(cal.getTime().getTime());
+		
+		Vector<String> columnNames = new Vector<>();
+		
+		table = new JTable(data, columnNames);
+		scrollPane = new JScrollPane(table);
+		add(scrollPane);
+		
+		
+		setVisible(true);
+	}
+	
+	public static void main(String[] args) {
+		
+		new JTableDemo();
+	}
+
+}

@@ -1,0 +1,20 @@
+package com.example;
+
+StaticBlockExample() {
+System.out.println("Within
+}
+static {
+System.out.println("Within
+}
+static void m1() {
+System.out.println("Within
+}
+static {
+System.out.println("Within
+m1();
+}
+27
+constructor");
+1st static block");
+static m1 method");
+2nd static block");

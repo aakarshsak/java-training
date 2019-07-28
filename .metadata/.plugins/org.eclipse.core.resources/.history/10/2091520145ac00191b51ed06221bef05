@@ -1,0 +1,21 @@
+package com.swing;
+
+import javax.swing.JFrame;
+
+public class TestJFrame extends JFrame{
+	
+	
+	public TestJFrame() {
+		
+		setTitle("DEMO J FRAME");
+		setSize(400, 400);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		setLocationRelativeTo(null);
+		setVisible(true);
+	}
+
+	public static void main(String[] args) {
+		new TestJFrame();
+	}
+
+}

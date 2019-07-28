@@ -1,0 +1,9 @@
+package com.event;
+
+import java.awt.event.MouseMotionListener;
+
+public class MouseEventDemo extends Applet implements MouseListener {
+
+	
+	
+}

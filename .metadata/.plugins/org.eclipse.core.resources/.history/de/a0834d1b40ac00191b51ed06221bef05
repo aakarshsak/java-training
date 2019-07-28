@@ -1,0 +1,19 @@
+package com.event;
+
+public class MouseListenerDemo2 extends Applet {
+	
+	
+	
+	
+}
+
+
+class MyMouseListener extends MouseAdapter {
+	
+	Applet applet;
+	
+	public MyMouseListener(Applet applet) {
+		this.applet = applet
+	}
+	
+}

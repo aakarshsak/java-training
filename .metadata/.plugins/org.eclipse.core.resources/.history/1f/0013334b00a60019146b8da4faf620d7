@@ -1,0 +1,13 @@
+package com.example;
+
+public class ArrayDemo {
+
+	public static void main(String[] args) {
+		
+		
+		int i5] = {10, 4, 6, 7, 10};
+	
+
+	}
+
+}

@@ -1,0 +1,36 @@
+package com.swing;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.JTextField;
+
+public class TextFieldDemo extends JFrame{
+
+	private JTextField textfield;
+	private JPanel panel;
+	
+	
+	public TextFieldDemo() {
+		
+		setTitle("DEMO TEXT");
+		setSize(400, 400);
+		setLocationRelativeTo(null);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		
+		textfield = new JTextField();
+		panel = new JPanel();
+		
+		
+		panel.add(textfield);
+		add(panel);
+		
+		setVisible(true);
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		new TextFieldDemo();
+	}
+
+}

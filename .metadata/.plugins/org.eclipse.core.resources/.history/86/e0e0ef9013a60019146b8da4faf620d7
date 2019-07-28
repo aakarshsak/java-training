@@ -1,0 +1,16 @@
+package com.example;
+
+class StaticBlockExample {
+StaticBlockExample() {
+System.out.println("Within
+}
+static {
+System.out.println("Within
+}
+static void m1() {
+System.out.println("Within
+}
+static {
+System.out.println("Within
+m1();
+}

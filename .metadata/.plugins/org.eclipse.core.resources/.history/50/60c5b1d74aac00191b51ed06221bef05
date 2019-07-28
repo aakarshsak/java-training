@@ -1,0 +1,53 @@
+package com.swing;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.JTextField;
+
+public class TextFieldDemo extends JFrame{
+
+	private JTextField nameText,usnText;
+	private JPanel panel;
+	private JButton btn;
+	
+	public TextFieldDemo() {
+		
+		setTitle("DEMO TEXT");
+		setSize(400, 400);
+		setLocationRelativeTo(null);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		
+		nameText = new JTextField(10);
+		usnText = new JTextField(5);
+		panel = new JPanel();
+		btn = new JButton("Submit");
+
+		btn.addActionListener(new ActionListener() {
+			
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				String usn = usnText.getText();
+				String name = nameText.getText();
+			}
+		});
+		
+		
+		panel.add(usnText);
+		panel.add(nameText);
+		panel.add(btn);
+		add(panel);
+		
+		setVisible(true);
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		new TextFieldDemo();
+	}
+
+}

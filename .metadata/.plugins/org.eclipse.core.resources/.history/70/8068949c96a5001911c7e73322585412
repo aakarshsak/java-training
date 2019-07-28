@@ -1,0 +1,14 @@
+package com.example;
+
+public class AnimalTest {
+
+    public static void main(){
+
+        Animal a = AnimalProvider.getAnimal("FAITHFUL");
+        a.talk();
+        
+        if( a instanceof Dog) {
+        	((Dog)a).wagTail();
+        }
+    }
+}

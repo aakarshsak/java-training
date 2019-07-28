@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.ComponentAddDialog">
+		<item key="x" value="375"/>
+		<item key="y" value="202"/>
+		<item key="width" value="621"/>
+		<item key="height" value="389"/>
+	</section>
+</section>

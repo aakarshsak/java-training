@@ -1,0 +1,14 @@
+package com.example;
+
+public class StringBuilderBuffer {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int x = 25;
+		StringBuffer str = new StringBuffer(x);
+		
+		System.out.println((new StringBuffer("")).append("x = ").append(x).insert(0, "New "));
+	}
+
+}

@@ -1,0 +1,17 @@
+package com.example;
+
+public class StaticBlockExample {
+StaticBlockExample() {
+System.out.println("Within Constructor " );
+}
+static {
+System.out.println("Within static 1");
+}
+static void m1() {
+System.out.println("Within func " );
+}
+static {
+System.out.println("Within static 2");
+m1();
+}
+}

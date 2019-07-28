@@ -1,0 +1,42 @@
+package com.example;
+
+public class ArrayDemo {
+
+	public static void main(String[] args) {
+		
+		
+		
+		int s[] = new int[]{10, 20, 30, 40, 50};
+		for(int x: s) {
+			System.out.println(x);
+		}
+		System.out.println("\n\n");
+		int d[] = new int[5];
+		for(int x: d) {
+			System.out.println(x);
+		}
+		System.out.println("\n\n");
+		System.arraycopy(s, 0, d, 0, 5);
+		for(int x: d) {
+			System.out.println(x);
+		}
+		
+		if(d.equals(s)) {
+			System.out.println("Array is same");
+		}
+		else {
+			System.out.println("Array not same");
+		}
+		
+		
+		
+		
+		int twoDArray[][] = new int[4][5];
+		for(int[] x : twoDArray) {
+			for(int y : x) {
+				
+			}
+		}
+	}
+
+}

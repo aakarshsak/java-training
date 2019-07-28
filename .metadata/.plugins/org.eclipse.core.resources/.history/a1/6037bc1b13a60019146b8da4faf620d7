@@ -1,0 +1,14 @@
+package com.example;
+
+public class ArrayDemo {
+
+	int i_val;
+	public static void main(String[] xyz){
+	System.out.println("i_val is :"+ i_val);
+	}
+		
+	}
+	
+	
+
+}

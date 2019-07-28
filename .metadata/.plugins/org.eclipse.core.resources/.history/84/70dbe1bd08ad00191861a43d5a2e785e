@@ -1,0 +1,69 @@
+package com.swing;
+
+import java.awt.BorderLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.sql.Date;
+import java.util.Calendar;
+import java.util.Vector;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.JScrollPane;
+import javax.swing.JTable;
+import javax.swing.table.DefaultTableModel;
+
+import com.db.StudentDao;
+
+public class JTableDemo extends JFrame{
+
+	
+	private JTable table;
+	private JScrollPane scrollPane;
+	private JButton btn;
+	private JPanel panel;
+	
+	public JTableDemo() {
+		setTitle("Table Demo");
+		setSize(400, 400);
+		setLocationRelativeTo(null);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		
+		
+		Vector<String> colName = new Vector<>();
+		colName.add("USN");
+		colName.add("NAME");
+		
+		btn = new JButton("Delete");
+		Vector<Vector<String>> data = StudentDao.getModel();
+		DefaultTableModel model = new DefaultTableModel(data, colName);
+		
+		btn.addActionListener(new ActionListener() {
+			
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				int idx = table.getSelectedRow();
+				String usn = data.get(idx).get(0);
+				System.out.println(usn);
+				Boolean flag = StudentDao.deleteRow(usn);
+			}
+		});		
+		
+		panel = new JPanel();
+		panel.add(btn);
+		table = new JTable(model);
+		scrollPane = new JScrollPane(table);
+		add(scrollPane);
+		add(panel, BorderLayout.SOUTH);
+		
+		
+		setVisible(true);
+	}
+	
+	public static void main(String[] args) {
+		
+		new JTableDemo();
+	}
+
+}
